@@ -1,0 +1,35 @@
+.buttons {
+    display: flex;
+    margin: 0 100px;
+    gap: 16px;
+  }
+
+  .buttons button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px; /* Adjust the font size as needed */
+    /* Add any other styles you need for the button */
+    
+  }
+  
+  .brown { 
+    background-color: #5a4d41;
+    border-radius: 50%;
+    width: 37px;
+    height: 37px;
+  }
+  
+  .green {
+    background-color: #3b4d3b;
+    border-radius: 50%;
+    width: 37px;
+    height: 37px;
+  }
+  
+  .black { 
+    background-color: black;
+    border-radius: 50%;
+    width: 37px;
+    height: 37px;
+  }
